@@ -1,6 +1,10 @@
 * {
   color: white;
   font-family: Times;
+  text-align: center;
+}
+p {
+  text-align: center;
 }
 .fixedemail {
       border-width: 3px;
@@ -23,9 +27,6 @@ body {
   border-radius: 15em;
   padding: 3em;
   margin: 1em;
-}
-divhead {
-  text-align: center;
 }
 .border_rounding {
   border-radius: 20em;
